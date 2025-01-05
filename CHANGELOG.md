@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.1
+
+### Enhancements 🏎️
+
+- []() Removing un-used permissions from the deployed `AIM` in the `CloudFormation`
+
 ## v0.1.0
 
 ### New Files 🎉
