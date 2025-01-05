@@ -33,10 +33,6 @@ Resources:
           - Sid: "EKSReadAccess"
             Effect: Allow
             Action:
-              - "eks:ListInsights"
-              - "eks:DescribeNodegroup"
-              - "eks:ListNodegroups"
-              - "eks:ListAddons"
               - "eks:DescribeCluster"
             Resource:
               - !Sub "arn:aws:eks:${AWS::Region}:${AWS::AccountId}:nodegroup/${ClusterName}/*/*"
