@@ -4,7 +4,7 @@
 
 ### Enhancements 🏎️
 
-- []() Removing un-used permissions from the deployed `AIM` in the `CloudFormation`
+- [#2](https://github.com/vaticyai/integrations-resources/pull/2) Removing un-used permissions from the deployed `AIM` in the `CloudFormation`
 
 ## v0.1.0
 
